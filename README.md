@@ -1,10 +1,9 @@
 **👋Hello devs, I am Gantavya and I love creating stuff.**
 <br>
 <br>
-🎓 I am a self taught coder who loves creating android applications in flutter  and writing Data Structure and Algorithms code in JAVA.
+🎓 I am a self taught coder who loves creating web applications in React JS and writing Data Structure and Algorithms code in JAVA.
 ![carbon](https://user-images.githubusercontent.com/65835480/143675836-0abdda09-713e-4b9c-ad01-93ea1eb919c3.png)
-🔭 I’m currently working on my final year project and making side projects on flutter.
-💬 Ask me about Flutter, Dart, Java ,
+💬 Ask me about React JS, Javascript, CSS, Material UI, Node js, Java ,
 Data structures and Algorithms.
 <br>
 <br>
