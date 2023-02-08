@@ -2,8 +2,8 @@
 <br>
 <br>
 🎓 I am a self taught coder who loves creating web applications in React JS and writing Data Structure and Algorithms code in JAVA.
-![carbon](https://user-images.githubusercontent.com/65835480/143675836-0abdda09-713e-4b9c-ad01-93ea1eb919c3.png)
-💬 Ask me about React JS, Javascript, CSS, Material UI, Node js, Java ,
+Checkout my portfolio - https://gantavyasaraswatdev.vercel.app/
+💬 Ask me about React JS, Javascript, CSS, Material UI, Node js, Java,
 Data structures and Algorithms.
 <br>
 <br>
